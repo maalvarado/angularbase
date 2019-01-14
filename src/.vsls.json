@@ -1,0 +1,22 @@
+{
+    "$schema": "http://json.schemastore.org/vsls",
+    "gitignore":"exclude",
+    "excludeFiles":[
+      "assets/",
+      "environments/",
+      "browserslist",
+      "favicon.ico",
+      "hmr.ts",
+      "index.html",
+      "karma.conf.js",
+      "main.ts",
+      "polyfills.ts",
+      "styles.scss",
+      "test.ts",
+      "theme.scss",
+      "tsconfig.app.json",
+      "tsconfig.spec.json",
+      "tslint.json"
+    ],
+    "hideFiles": []
+  }
